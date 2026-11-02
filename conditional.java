@@ -14,7 +14,7 @@ public class conditional{
 }
 
 
-public class conditional{
+public class conditional{                        //negative no
     public static void main(String[] args) {
         int a=-6;
         if(a>0){
